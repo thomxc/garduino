@@ -1,0 +1,11 @@
+//static const uint8_t D0   = 16; // GPIO16          can be used to wake up the chipset from deep sleep mode.
+//static const uint8_t D1   = 5;  // GPIO5  usable - SCL
+//static const uint8_t D2   = 4;  // GPIO4  usable - SDA
+//static const uint8_t D3   = 0;  // GPIO0  usable - Input Only
+//static const uint8_t D4   = 2;  // GPIO2  usable - Input Only
+//static const uint8_t D5   = 14; // GPIO14
+//static const uint8_t D6   = 12; // GPIO12 usable
+//static const uint8_t D7   = 13; // GPIO13 usable
+//static const uint8_t D8   = 15; // GPIO15 
+//static const uint8_t D9   = 3;  // GPIO3  usable - RX
+//static const uint8_t D10  = 1;  // GPIO1  usable - TX
